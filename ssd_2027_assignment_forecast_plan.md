@@ -240,3 +240,151 @@ Amazon公式発表より先に、住所・Site Code・開設月が求人票に�
 2027年10月配属確率ランキングを作成
 
 これをFC / DSの配属候補と比較し、最終的な希望部門・希望地域の判断材料にする。
+
+---
+
+## 9. Phase 1調査結果｜全国の「新設物流拠点」シグナルを分類（2026-09-09）
+
+### 9.1 結論
+
+2026年9月9日時点では、公開情報から **「2027年に○○市へSSDを新設する」ことを明示した地点は確認できなかった。**
+
+一方で、Amazon Japanは現在もSSDのLaunch & Expansion専任組織を採用し、複数Launchを同時並行で管理している。したがって、2027年にも新設・拡張が続く可能性は高いが、具体的な都市名はまだ公開段階に入っていないと考えるのが妥当。
+
+### 9.2 現在確認できる「新設物流拠点」求人の分類
+
+「新設物流拠点」という文言だけではSSDとは判定できない。求人本文でFC / DS / SSDの所属を確認する必要がある。
+
+| 地点 | 公開シグナル | 判定 | 2027年10月配属との関係 | 確度 |
+|---|---|---|---|---|
+| 東京都江東区 | Learning Trainerが「江東区に新設する物流拠点を含む複数拠点」。別途SSD AM/OM求人あり | **SSD** | 2026年Launch/Ramp-up候補。2027年にも若いサイトとして配属候補になり得る | High |
+| 千葉県千葉市美浜区 | 「美浜区に新設する物流拠点」Learning Trainer + Area Manager, SSD求人 | **SSD** | 2026〜27 Ramp-up候補として重要 | High |
+| 神奈川県横浜市鶴見区 | 「鶴見区に新設する物流拠点」Learning Trainer + SSD管理職求人 | **SSD** | 2026〜27 Ramp-up候補 | High |
+| 大阪府大阪市 | RME求人が「大阪市に新設されるSSD（Sub-Same Day：当日お届けセンター）」と明示 | **SSD** | 住之江など2026 Launchを指す可能性が高い。別の2027サイトと断定不可 | Medium |
+| 東京都町田市 | 「町田市に位置する新設物流拠点」だが求人本文でAmazon Logistics / Delivery Stationを明示 | **DS** | SSD候補から除外 | High |
+| 兵庫県尼崎市 | 「新設された物流拠点」だが求人本文でFulfillment Centerを明示 | **FC** | SSD候補から除外（尼崎SSD SHY3とは別系統） | High |
+| 千葉県流山市 | Amazon公式が新FC「流山おおたかの森FC」を2026/3開業と発表 | **FC** | SSD候補から除外 | High |
+
+### 9.3 現在もSSD Launch Pipelineが動いている直接証拠
+
+Amazon Jobsの **Program Manager, SSD Planning and Execution, Japan Launch and Expansion** では、JP Launch and Expansion組織について以下を明記している。
+
+- Site Selection
+- ROI analysis / internal investment approval
+- Launch planning
+- Hiring
+- System configuration
+- Training
+- Go-Live
+- SSD / AMZL+をlaunchからclosureまで担当
+- Same-Day Delivery networkをrapidly scale
+- 複数のLaunch Projectを同時並行で管理
+
+また、Workforce Staffing Japanには **Launch Specialist** があり、日本のFC / DS / SSD / Quick Commerce新設時のmass hiringを担当している。
+
+これらから、SSD新設は単発イベントではなく、専任組織による継続的なネットワーク拡張として運営されていると判断できる。
+
+### 9.4 2026年新設SSDから推定した求人先行期間
+
+2026年新設7拠点で確認できた最初期の管理職 / Trainer求人と開業時期の差は概ね以下。
+
+| Site | Launch | 初期管理職/Trainerシグナル | Lead Time |
+|---|---:|---:|---:|
+| 名古屋中村第2 | 2026/06 | 2026/01末 | 約4か月 |
+| 尼崎SSD | 2026/06 | 2026/02初 | 約4か月 |
+| 四街道 | 2026/09 | 2026/03下旬 | 約5.5か月 |
+| 住之江 | 2026/09 | 2026/03 | 約5.5〜6か月 |
+| 茨木第2 | 2026/09 | 2026/03下旬 | 約5.5か月 |
+| 松戸 | 2026/10 | 2026/03下旬 | 約6.5か月 |
+| 松原 | 2026/11 | 2026/03下旬 | 約7か月 |
+
+**中心値は約5〜6か月前。**
+
+したがって、2027年10月前後にLaunchするSSDを見つける最大の観測期間は **2027年2〜6月**、特に9〜11月Launchを狙うなら **2027年3〜5月** の求人が重要になる。
+
+さらに初期求人では必ずしも「SSD」と書かれない。Area Manager / Operations Manager / Sr. Area Manager / Learning Trainer / Site Leadの新規都市名を先に拾い、後からSSD判定する必要がある。
+
+### 9.5 2027年10月入社時点の暫定候補レイヤー
+
+#### Tier A：まだ未公表の2027年新設SSD
+
+最重要。特に2027年4〜12月Launchなら、入社時にLaunch前後またはRamp-up期となる。
+
+現時点では具体地点を特定できない。
+
+#### Tier B：2026年後半〜2027年初頭の若いSSD
+
+- 松戸 SCB1
+- 四街道 SCB4
+- 千葉美浜
+- 江東
+- 横浜鶴見
+- 住之江
+- 茨木第2
+- 松原
+
+2027年10月時点でサイト年齢約1年前後。新設直後ほどではないが、増員・組織拡張が続く場合には新卒AM配属候補。
+
+#### Tier C：成熟SSD
+
+板橋 OIT1、町田 STK1など。通常補充や人員計画次第では配属可能だが、新設サイトほどLaunch Timing Fitは高くない。
+
+### 9.6 地理的なWatch Area（未確認仮説）
+
+**埼玉南部〜東部（川口・戸田・草加・八潮・越谷周辺）**は今後追跡価値がある。
+
+理由：
+- Amazon Express Mart / Same-Day系サービスの対象エリアが広がっている
+- 現在作成したSSDマスターでは、埼玉県内のSSDを確定できていない
+- AmazonのWHS求人には埼玉／関東でAMZL・SSD・QCをカバーする記載がある
+
+ただし、これは **新設SSDの証拠ではない**。既存の東京・千葉SSDから配送している可能性も十分あるため、「候補サイト」ではなく「監視地域」としてのみ扱う。
+
+### 9.7 2027新卒採用との接続
+
+2027新卒Area Manager求人では、2027年4月または10月入社可能者を対象としている。したがって10月入社コホートは公式採用スケジュール上存在する。
+
+ただし求人に表示される複数都市は採用対象地域・勤務地候補を示すものであり、特定SSDへの配属保証とは解釈しない。
+
+### 9.8 Phase 1時点の暫定判定
+
+> **2027年10月配属先を予測するには、現時点の具体的サイト名を無理に当てるより、2027年2〜6月に新しく出現する都市名を監視する方が精度が高い。**
+
+2026年9月時点では2027年新設SSDの具体地点はまだ非公開だが、Amazon内部にはSSD Launchを継続的に実行する組織と採用機能が存在し、ネットワーク拡大が止まった兆候はない。
+
+---
+
+## 10. Phase 1で使用した主要公開ソース
+
+- Amazon Jobs — Program Manager, SSD Planning and Execution, Japan Launch and Expansion  
+  https://www.amazon.jobs/en/jobs/10506321/program-manager-ssd-planning-and-execution-japan-launch-and-expansion
+- Amazon Jobs — WFS Specialist, Workforce Staffing Japan  
+  https://www.amazon.jobs/jp/jobs/10437302/wfs-specialist-workforce-staffing-japan
+- Amazon Jobs — Learning Trainer, L&TD（江東区新設拠点）  
+  https://www.amazon.jobs/en/jobs/10477104/learning-trainer-learning-and-talent-development-l-td
+- Amazon Jobs — Learning Trainer（横浜市鶴見区新設拠点）  
+  https://www.amazon.jobs/jp/jobs/10378755/learning-trainer
+- Amazon Jobs — Operations Manager, Amazon Logistics（町田市新設DS）  
+  https://www.amazon.jobs/en/jobs/10471914/operations-manager-amazon-logistics
+- Amazon Jobs — Sr Program Manager, Sub Same-Day  
+  https://www.amazon.jobs/en-gb/jobs/10470731/sr-program-manager-sub-same-day
+- About Amazon Japan — 流山おおたかの森FC Launch  
+  https://press.aboutamazon.com/jp/news/fulfillment-and-delivery/2026/2/amazon-nagareyama-fc-launch
+- About Amazon Japan — 武庫川FC Launch  
+  https://press.aboutamazon.com/jp/news/operations/2026/8/amazon-launches-new-amagasaki-fc
+
+---
+
+## 11. 次の調査
+
+Phase 2では、**「新卒AMが本当にLaunch後0〜18か月の若いSSDへ多く配属されるのか」**を検証する。
+
+方法：
+
+1. 2024〜2026入社AMのLinkedIn / 公開プロフィールを可能な範囲で集める
+2. 初任地のSite / Site ageを特定
+3. 新設0〜6か月、7〜18か月、成熟サイトに分類
+4. FC / DS / SSD別に比較
+5. 2027年10月入社の配属確率モデルへ反映
+
+これにより、「新設SSDがある＝新卒がそこへ行く」という未検証仮説を実データで確認する。
