@@ -1,79 +1,87 @@
-# Amazon Area Manager 調査結果
+# Amazon Area Manager / SSD Research Repository
 
-## 目的
-Amazon Japan Area Manager（AM）を2〜4年のキャリア投資として判断するため、仕事内容・働き方・キャリア出口を調査。
+Updated: 2026-09-09
 
-## 結論
-- AMの中心業務は People Management + Operations管理。
-- L4/L5では人員配置、KPI、生産性、Safety、Quality、Associate育成が中心。
-- PM/Central Operationsへの異動実例は存在する。
-- ただし自動的にPMになるわけではなく、改善Project・Network範囲の経験が重要。
+Amazon Japan Area Manager（AM）を2〜4年のキャリア投資として判断し、将来的にProgram Manager / Corporate / SSD / Central Operationsへ進めるかを検証するための調査リポジトリ。
 
-## AM → Program Manager 実例
+## まず読むファイル
 
-### Hikari Yamada
-Area Manager → Sr Area Manager → Account Manager → Program Manager
+### 1. [MASTER_RESEARCH.md](./MASTER_RESEARCH.md)
+これまで調べた内容をすべて統合した総合レポート。
 
-### Kazui Yoshida
-Area Manager → Sr Area Manager → Program Manager
+含む内容：
+- Amazon Japan AMの実務
+- 内定者イベントの要点
+- 米国AM YouTube 7本の詳細分析
+- 日本AM→PM / Corporate実例
+- L4→L5公開例と中央値
+- 日本の夜勤・Shift・WLB
+- FC / DS / SSD / Central Flow比較
+- 海外SSDの普遍的特徴
+- Global SSD Career Cohort Phase 1
+- 現時点の戦略・未証明点
 
-### Haruka Miki
-Area Manager → Sr Area Manager → Program Manager (Launch & Execution)
+### 2. [sources.md](./sources.md)
+YouTube、Amazon Jobs、LinkedIn、Reddit、Indeed等の主要ソース一覧。
 
-### Takanori Kimura
-Area Manager → Transportation Execution Project Manager → Program Manager Transportation Planning
+---
 
-### Hiroki Kishinoue
-Area Manager → Program Manager II
+## 個別調査ファイル
 
-### Ayako Amy Kutsuzawa
-Sr Area Manager L5 → Operations Manager L6 → Sr Program Manager AMZL
+### [career_cases.md](./career_cases.md)
+AMからL5/L6/Program Manager等へ進むCareer case整理。
 
-## SSD / Central Operationsへの戦略
+### [japan_reviews.md](./japan_reviews.md)
+Amazon Japan AMの勤務条件・口コミ・調査項目。
 
-有力ルート:
+### [ssd_strategy.md](./ssd_strategy.md)
+SSD配属からPM/Corporateを狙う3年間の仮説。
+
+### [global_ssd_research.md](./global_ssd_research.md)
+US / Canada / UK / India / Japan / Brazil等のSSDを横断したGlobal research。
+
+### [global_ssd_cohort_phase1.md](./global_ssd_cohort_phase1.md)
+SSD成功者だけではなく、SSD Field Ops起点で追跡した第1次Career cohort。
+
+---
+
+# 現時点の結論
+
+- AMの中心は **People Management + Operations Management**。
+- L4/L5ではStaffing、KPI、生産性、Safety、Quality、Associate育成が中心。
+- Project経験は作れるが、AM＝PM職ではない。
+- 日本でもAM→Program Manager / Corporate / Central Operationsの実例は複数確認。
+- L6 Operations Managerを経由しなくてもPMへ移る実例あり。
+- 日本公開例ではL4→L5は2〜3年前後が中心で、小サンプル中央値は約2年3か月。
+- SSDはEnd-to-End、Launch、Ops Excellence、Central、Planning、Program Managementとの距離が近く、有力な配属候補。
+- ただし「SSDならFC/DSよりPM転換率が高い」はまだ未証明。
+- SSDのWLBがFC/DSより良いことも未証明。
+
+# 現時点で最も合理的なCareer仮説
 
 AM
-↓
-L5 / Sr Area Manager
-↓
-Central Flow / Launch / Transportation / Network Project
-↓
-Program Manager
-↓
-SSD PM
+→ 1〜2年で定量Impact + 横断Project
+→ L5前後
+→ Central / Launch / Ops Excellence / ACES / Project Manager
+→ Program Manager
+→ SSD / Network / Planning / Central PM
 
-## AMの実態
+# 次の本丸調査
 
-### メリット
-- 若いうちから大人数マネジメント経験
-- Amazon物流オペレーション理解
-- 改善Project経験を作れる
-- Internal Transfer機会あり
+2021〜2024年入社の比較コホートを作る。
 
-### リスク
-- 夜勤
-- シフト制
-- People Management負荷
-- 現場トラブル対応
-- PMより現場管理比率が高い
+- SSD Area Manager: 30〜50人
+- FC Area Manager: 30〜50人
+- Delivery Station Area Manager: 30〜50人
 
-## キャリア形成で重要なこと
-
-AMになれば自然にPMになるわけではない。
-
-意識して作るべき実績:
-
-- Process Improvement
-- Data/Metricsによる改善
-- Cross Functional Project
+比較項目：
+- 2年以内L5
+- 3年以内L6
+- 3年以内Central / PM
 - Launch経験
-- Network規模のImpact
+- Network Project経験
+- Amazon外転職
+- Time-to-promotion
+- Time-to-corporate
 
-## 次の調査項目
-
-- 日本Amazon AM経験者20〜30人の職歴分析
-- FC / DS / SSD別キャリア比較
-- L4→L5→L6昇進年数
-- AMから移れなかった事例
-- SSD PMへの最短ルート分析
+成功例だけでなく、残留・昇進・退職も含めてSelection Biasを抑える。
