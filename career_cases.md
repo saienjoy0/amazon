@@ -1,70 +1,69 @@
 # Amazon AM Career Cases
 
-## Purpose
-AM入社後にどのようなキャリアへ進めるかを整理する。
+Updated: 2026-09-09
 
-## LinkedIn / external evidence collected
+詳細な統合版は [MASTER_RESEARCH.md](./MASTER_RESEARCH.md) を参照。
 
-### Case 1: L4 Area Manager → L5 Area Manager
-- Person: Matthew Vlietstra
-- Route: L4 AM → L5 AM
-- Duration: 約1年半
-- Learning points:
-  - 大規模オペレーション運営
-  - チーム育成
-  - メンター・リーダーとの関係性
-- Source: LinkedIn投稿
+## 現時点の結論
 
-### Case 2: L4 Area Manager → L5 Area Manager
-- Person: Aarosh Maharjan
-- Route: L4 AM → L5 AM
-- Learning points:
-  - Leadership / associate engagementを強調
-  - Mentor supportの重要性
+- 日本でもAM→Program Manager / Central Operations / Ops Excellenceの実例は複数ある。
+- L6 Operations Manager経由は有力ルートだが必須ではない。
+- AM 1〜2年台でProject / Analyst / Launch / Centralへ横移動する例もある。
+- 強い成功例は、単なるAM在籍年数よりLaunch、Data、Network scope、Cross-functional impactを持つ。
 
-### Case 3: L5 Area Manager → L7 Senior Operations Manager
-- Person: Max Cassily
-- Route:
-  - L5 Area Manager
-  - L6 Operations Manager
-  - L7 Senior Operations Manager
-- Learning points:
-  - AM経験を現場理解の基盤として評価
-  - 複数AM・多数associateを管理する役割へ拡大
+## Japan examples
 
-### Case 4: Program Manager系キャリア
-- SSD関連Program Manager求人を確認。
-- 求められる経験:
-  - Operations理解
-  - Process improvement
-  - Cross-functional project management
-  - Network scale経験
-
-## Current evidence summary
-
-| Career | Evidence | Confidence |
+| Person | Route | Note |
 |---|---|---|
-| Operations Manager (L6) | AM(L4/L5) → OM(L6) is standard FC path | High |
-| Senior Operations Manager | OMから上位Opsへ進むルートあり | Medium |
-| Program Manager | SSD Ops Integration / Operations Excellence系でOps経験が関連 | Medium |
-| Corporate / Central Ops | 直接異動例を追加調査予定 | Low |
-| Supply Chain | Amazon内部キャリア例を追加調査予定 | Low |
+| Hikari Yamada | AM → Sr AM → Account Manager → Program Manager | 約3年弱でPM側 |
+| Kazui Yoshida | AM → Sr AM → Program Manager | Ops→PM |
+| Haruka Miki | AM → Sr AM → Program Manager, Launch & Execution | Launch |
+| Takanori Kimura | AMZL AM → Project Manager → Program Manager, Transportation Planning | Project Managerが橋渡し |
+| Hiroki Kishinoue | AM → Program Manager II | PM横移動 |
+| Ayako Amy Kutsuzawa | L5 Sr AM → L6 OM → Sr Program Manager, AMZL | OM経由 |
+| Youngjoon Kim | FC AM → Program Manager | 約2年前後の横移動例 |
+| Yujung Woo | AM → Analyst → Sr Analyst → Program Manager, ACES | Analyst/ACES |
+| Hyangmoon Huh | DS AM → Launch Program Manager → Station ACES Manager | Launch/ACES |
+| Satoshi Kanayama | AM → Process Engineer → Project Manager → Program Manager | Process/Project |
+| Natsuki Daimaru | AM → Site Ops Excellence Manager, SSD | SSD Ops Excellence |
+| 丸山龍之介 | DS AM → Central Operations | Site→Central |
 
-## Research next steps
+## Japan L4→L5 public examples
 
-- LinkedInでAM経験者20〜30人を調査
-- 以下を記録
-  - 入社年
-  - 初期職種
-  - FC / SSD / AMZL所属
-  - L5到達年数
-  - L6到達年数
-  - Program Manager異動有無
-  - Corporate異動有無
+公開プロフィールで期間が明確だった9例：
+- 1y9m
+- 2y0m
+- 2y0m
+- 2y2m
+- 2y3m
+- 2y7m
+- 2y10m
+- 3y0m
+- 3y6m
 
-## Key questions
+小サンプル中央値：約2年3か月。
 
-1. SSD Area ManagerからSSD Program Managerへ移れる確率・期間
-2. 日本Amazonで同様のキャリアが存在するか
-3. 入社後3年間で何を実績化すべきか
-4. L5昇進後に外部市場でどの程度評価されるか
+## Global SSD bridge cases
+
+- Sai Niranjan Repala: Area Manager → OM → Launch → Senior PM, SSD-DC
+- Javier Dolz Cifre: Graduate AM → AM → OM → Senior PM → Head of SSD Ops Strategy
+- Joel Boey: Pathways OM → DS Manager → SSD Site Lead → Principal PM
+
+## Career interpretation
+
+### Weak pattern
+AMを数年回すだけ。
+
+### Stronger pattern
+AM
+→ Site KPIで定量成果
+→ Launch / Standardization / Tooling / Network Project
+→ L5前後
+→ Central / Ops Excellence / Project / ACES
+→ Program Manager
+
+## Limitation
+
+このケース集には成功例検索によるSelection Biasがある。PM転換率の推定には使わない。
+
+次はFC / DS / SSDを同年代・同条件で30〜50人ずつ追跡する比較コホートが必要。
