@@ -21,7 +21,10 @@ Amazon Japan Area Manager（AM）を2〜4年のキャリア投資として判断
 - Global SSD Career Cohort Phase 1
 - 現時点の戦略・未証明点
 
-### 2. [sources.md](./sources.md)
+### 2. [fc_ds_ssd_cohort_comparison_2026.md](./fc_ds_ssd_cohort_comparison_2026.md)
+今回のFC / DS / SSD比較コホート監査。公開プロフィール標本、Network別の出口、SSDの未証明点、24か月アクションプランを整理。
+
+### 3. [sources.md](./sources.md)
 YouTube、Amazon Jobs、LinkedIn、Reddit、Indeed等の主要ソース一覧。
 
 ---
@@ -54,7 +57,8 @@ SSD成功者だけではなく、SSD Field Ops起点で追跡した第1次Career
 - L6 Operations Managerを経由しなくてもPMへ移る実例あり。
 - 日本公開例ではL4→L5は2〜3年前後が中心で、小サンプル中央値は約2年3か月。
 - SSDはEnd-to-End、Launch、Ops Excellence、Central、Planning、Program Managementとの距離が近く、有力な配属候補。
-- ただし「SSDならFC/DSよりPM転換率が高い」はまだ未証明。
+- 比較コホート監査では、SSDがFC/DSよりPM転換しやすいことは未証明。
+- 暫定順位は DS / AMZL > AR / Robotics FC > SSD。Launch / OE / Planning / Network Projectが確約されるSSDは1位に繰り上げ得る。
 - SSDのWLBがFC/DSより良いことも未証明。
 
 # 現時点で最も合理的なCareer仮説
@@ -66,9 +70,11 @@ AM
 → Program Manager
 → SSD / Network / Planning / Central PM
 
-# 次の本丸調査
+# 比較コホート監査の残課題
 
-2021〜2024年入社の比較コホートを作る。
+今回の公開プロフィール監査では、FC 18人、DS / AMZL 30人、SSD 24人を追跡した。ただし同一条件でAM開始年・Network・Endpointを確認できた厳密コホートはFC 3人、DS約10人、SSD 2人に留まる。これは母集団推定ではなく、selection biasのあるpublic-profile sampleである。
+
+次の課題は、同一国・同一入社年・AM開始日を確認できる比較コホートを追加すること。
 
 - SSD Area Manager: 30〜50人
 - FC Area Manager: 30〜50人
