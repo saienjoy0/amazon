@@ -24,7 +24,10 @@ Amazon Japan Area Manager（AM）を2〜4年のキャリア投資として判断
 ### 2. [fc_ds_ssd_cohort_comparison_2026.md](./fc_ds_ssd_cohort_comparison_2026.md)
 今回のFC / DS / SSD比較コホート監査。公開プロフィール標本、Network別の出口、SSDの未証明点、24か月アクションプランを整理。
 
-### 3. [sources.md](./sources.md)
+### 3. [japan_ssd_site_master_2026.md](./japan_ssd_site_master_2026.md)
+2026-09-09時点で公開情報から確認できた日本SSD／当日お届けセンターの拠点マスター。Site Code、住所、新設時期、関東の勤務地評価、SSD Central系組織、および**2027年10月入社時の配属可能性を予測する次期調査設計**を収録。
+
+### 4. [sources.md](./sources.md)
 YouTube、Amazon Jobs、LinkedIn、Reddit、Indeed等の主要ソース一覧。
 
 ---
@@ -70,7 +73,25 @@ AM
 → Program Manager
 → SSD / Network / Planning / Central PM
 
-# 比較コホート監査の残課題
+# 次の優先調査
+
+## A. 2027年10月のSSD配属可能性
+
+現在のSSD一覧ではなく、**2027年10月の入社時点でどのSSDが新設・増員フェーズにあるか**を予測する。
+
+調査対象：
+- 2026年後半〜2027年の新設SSD候補
+- Site Codeの新規出現
+- Amazon JobsのLaunch / Opening / Area Manager / Operations Manager求人
+- ハローワークの「新規開設」「オープニングスタッフ」
+- 物流不動産会社のAmazon入居・賃貸情報
+- Launch前後のAM/OM採用タイムラグ
+- 既存SSDの増員局面
+- 東京23区・神奈川東部・千葉西部等の地域別拡張余地
+
+最終アウトプット：各サイトを **2027年10月の新卒AM配属可能性 High / Medium / Low** で分類し、勤務地・同居適性・PM/Central接続も併記する。
+
+## B. 比較コホート監査の残課題
 
 今回の公開プロフィール監査では、FC 18人、DS / AMZL 30人、SSD 24人を追跡した。ただし同一条件でAM開始年・Network・Endpointを確認できた厳密コホートはFC 3人、DS約10人、SSD 2人に留まる。これは母集団推定ではなく、selection biasのあるpublic-profile sampleである。
 
